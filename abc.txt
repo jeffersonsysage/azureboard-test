@@ -1,2 +1,3 @@
 asdasdasdasd123456
 123456
+透過 VScode 管理 Linux 環境，並進行 Github 推送
